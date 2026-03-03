@@ -1,0 +1,28 @@
+{
+    "realAWSCloudwatch/ec2_cpu_utilization_24ae8d.csv": [
+        "2014-02-26 22:05:00",
+        "2014-02-27 17:15:00"
+    ],
+    "realAWSCloudwatch/ec2_cpu_utilization_53ea38.csv": [
+        "2014-02-19 19:10:00",
+        "2014-02-23 20:05:00"
+    ],
+    "realAWSCloudwatch/ec2_cpu_utilization_c6585a.csv": [],
+    "realAWSCloudwatch/ec2_cpu_utilization_fe7f93.csv": [
+        "2014-02-17 06:12:00",
+        "2014-02-22 00:02:00",
+        "2014-02-23 15:17:00"
+    ],
+    "realAWSCloudwatch/ec2_network_in_257a54.csv": [
+        "2014-04-15 16:44:00"
+    ],
+    "realAWSCloudwatch/elb_request_count_8c0756.csv": [
+        "2014-04-12 17:24:00",
+        "2014-04-22 19:34:00"
+    ],
+    "realAWSCloudwatch/grok_asg_anomaly.csv": [
+        "2014-01-20 08:30:00",
+        "2014-01-21 10:45:00",
+        "2014-01-29 00:45:00"
+    ]
+}

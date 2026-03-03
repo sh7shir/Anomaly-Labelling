@@ -1,0 +1,14 @@
+Datasets:
+----------------
+NAB: https://github.com/numenta/NAB
+CESNET-TimeSeries24(41GB): https://zenodo.org/records/13382427 
+
+
+Papers
+----------------
+CESNET: https://www.nature.com/articles/s41597-025-04603-x
+
+
+Examples:
+----------------
+CESNET-TimeSeries24: https://github.com/koumajos/CESNET-TimeSeries24-Example

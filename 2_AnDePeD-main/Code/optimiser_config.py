@@ -1,0 +1,9 @@
+NUM_TRIALS = 50
+
+STUDY_SAVE_DIR = 'study_saves'
+
+K_MIN = 1
+K_MAX = 50
+
+ALPHA_MIN = 50
+ALPHA_MAX = 5000
