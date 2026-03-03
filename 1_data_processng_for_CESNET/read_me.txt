@@ -1,2 +1,0 @@
-the CESNET datasets are not in the same format as the NAB datasets that we need to convert it to the same format to use it as the input of the detectors. 
-As you can see the CESNET is a multivariate dataset and we are working with 3 variables from the dataset, we need to generate 4 files for each variable to feed the online(real time processing) in the detectors.
