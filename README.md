@@ -17,7 +17,7 @@ Ensure you have Python installed on your system along with the following librari
 You can install the required dependency via pip:
 
 ```bash
-pip install pandas
+pip install pandas numpy matplotlib seaborn scikit-learn
 
 ```
 
