@@ -81,4 +81,15 @@ date_id = datetime.now().strftime("%y%m%d%H%M%S")
 
 # Step 2 - Processing the Datasets using the set of Detectors
 
+Follow the instructions described here: https://github.com/VDanielL/AnDePeD
+
+# Step 3 - Result Visualization
+
+The script folder contains the common visualization scripts for NAB datasets and CESNET datasets.
+The scripts differ because of the availability of labels.
+
+All the datasets of NAB and CESSNET can be visualized using the folders(`NAB_full` and `CESNET`) accordingly. 
+`It is advised to modify the scripts to support new datasets.`
+
+
 
